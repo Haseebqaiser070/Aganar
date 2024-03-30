@@ -1,0 +1,40 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "notificaciones",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "notifiedUsersList",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "created_date",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "selectedTickets",
+      "fieldPath": "usuario",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>826429194830-t10rkfeul3d7skv629i798t7q5s9odl3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.826429194830-t10rkfeul3d7skv629i798t7q5s9odl3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>826429194830-06sif19e9ca431rijms81sv6d3705l8q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkns0HJXk-csVx_XZymzmO-VDkNgn6JT4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>826429194830</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aganar.sorteoganadora</string>
+	<key>PROJECT_ID</key>
+	<string>kgpromos-76d07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kgpromos-76d07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:826429194830:ios:bc981b4a5c1dc9e2ecb91f</string>
+	<key>DATABASE_URL</key>
+	<string>https://kgpromos-76d07-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

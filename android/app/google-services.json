@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826429194830",
+    "firebase_url": "https://kgpromos-76d07-default-rtdb.firebaseio.com",
+    "project_id": "kgpromos-76d07",
+    "storage_bucket": "kgpromos-76d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826429194830:android:5adbb4f980c68548ecb91f",
+        "android_client_info": {
+          "package_name": "com.aganar.sorteos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826429194830-tdchgct0trn5fdengm6hg0d9ohb65vsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aganar.sorteos",
+            "certificate_hash": "6493e605b396f3db7ed5147bb816304f15b0ea27"
+          }
+        },
+        {
+          "client_id": "826429194830-53pojk3rj5tl246q32hon2p7r8ooinfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNflaHMpRINoJ0zD-TEZGCO1fh_2c-tsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826429194830-53pojk3rj5tl246q32hon2p7r8ooinfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826429194830-559hqf4fmc13b2i4m743ql3688advqro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kgpromos.ruleta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
